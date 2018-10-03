@@ -1,0 +1,55 @@
+<header class="header">
+<div class="navigation">
+<a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
+<ul class="menu">
+<li class="menu__entry"><a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a></li>
+<li class="menu__entry"><a href="{{ '/publications' | prepend: site.baseurl }}">Publications</a></li>
+<li class="menu__entry"><a href="{{ '/teaching' | prepend: site.baseurl }}">Teaching</a></li>
+<li class="menu__entry"><a href="{{ '/research' | prepend: site.baseurl }}">Research</a></li>
+<li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a></li>
+<li class="menu__entry"><a href="{{ '/contact' | prepend: site.baseurl }}">Contact</a></li>
+</ul>
+</div>
+<ul class="social-links">
+{% if site.author.email %}
+<a href="mailto:{{ site.author.email }}" class="social-links__entry" target="_blank">
+<i class="fa fa-envelope-square"></i>
+</a>
+{% endif %}
+{% if site.author.github %}
+<a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
+<i class="fa fa-github"></i>
+</a>
+{% endif %}
+{% if site.author.linkedin %}
+<a href="https://linkedin.com/in/{{ site.author.linkedin }}" class="social-links__entry" target="_blank">
+<i class="fa fa-linkedin"></i>
+</a>
+{% endif %}
+{% if site.author.scholar %}
+<a href="{{ site.author.scholar }}" class="social-links__entry" target="_blank">
+<i class="ai ai-google-scholar"></i>
+</a>
+{% endif %}
+{% if site.author.orcid %}
+<a href="{{ site.author.orcid }}" class="social-links__entry" target="_blank">
+<i class="ai ai-orcid"></i>
+</a>
+{% endif %}
+{% if site.author.mendeley %}
+<a href="{{ site.author.mendeley }}" class="social-links__entry" target="_blank">
+<i class="ai ai-mendeley"></i>
+</a>
+{% endif %}
+{% if site.author.researchgate %}
+<a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}" class="social-links__entry" target="_blank">
+<i class="ai ai-researchgate"></i>
+</a>
+{% endif %}
+</ul>
+</header>
+
+
+
+
+
