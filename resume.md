@@ -1,60 +1,53 @@
 ---
 layout: page
 title: Résumé
-subtitle: An awesome person
 ---
 
-<span style="float: right; "><a href="{{ '/assets/cv-academic.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/cv-academic.pdf' | prepend: site.baseurl }}"><strong>> Download résumé as PDF</strong></a> </span>
+<br>
+<span style="float: right; "><a href="{{ '/assets/cv-academic.pdf' | prepend: site.baseurl }}"><strong>> Download academic CV</strong></a> </span>
 <br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
 
-### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
-
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
-
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
-
-### EDUCATION
-
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
- 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
-
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
-
+``` I am an engineer with a research background and international experience ```  
 ### EXPERIENCE
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
+Researcher - **I&C Lab,atlanTTic Research Center** <span style="float: right; ">09/2014 - ongoing</span>  
 _Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
 Technologies used  
 
  
-Title - **Comapany** <span style="float: right; ">Duration</span>  
+Visiting researcher - **SAMOVAR Lab, Télécom Sudparis** <span style="float: right; ">03 - 05/2017</span>  
 _Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
 Technologies used  
+ 
+### EDUCATION
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Universidade de Vigo <span style="float: right; ">09/2014 - 12/2018</span>  
+**Ph.D. in Information and Communication Technologies**  
+ 
+Universidade de Vigo <span style="float: right; ">09/2009 - 07/2014</span>  
+**Ingeniería de Telecomunicación (Telecommunication Engineering)**, specialisation in Telematics.  
+5 years Degree (<b>BSc+MSc</b>) including: Radio Engineering, Signal Processing, Electronics, Information and Communication Technologies.
+
+University of Oulu (Finland)<span style="float: right; ">2013/2014</span>  
+**Erasmus exchange**  
+Master Thesis in Oulu University Secure Programming Group.
 
 
-### RECOGNITION & INTERESTS
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+
+### TECHNOLOGIES
+
+- <b>Operating Systems</b>: Ubuntu, Windows. 
+- <b>Network simulation</b>: ns-3.
+- <b>Urban mobility simulation</b>: SUMO, Bonnmotion.
+- <b>Data processing</b>: R.
+- <b>Version control</b>: git.
+- <b>Programming</b>: C, C++, Java, Bash, Python. 
+- <b>Web Programming</b>: HTML, CSS, JavaScript.
+- <b>Databases</b>: MySQL.
+- <b>Raspberry Pi programming. 
+- <b>Tools</b>: Office, LaTeX, Matlab. 
+
+  
