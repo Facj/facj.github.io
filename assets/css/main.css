@@ -47,10 +47,15 @@
   .wrapper {
     max-width: 90%;
     margin: 60px auto; }
+	
+  .main {
+   width: 50%;
+   margin: auto; }
 
 /* =Header *//*************************************************************/
   .header {
-    overflow: hidden; }
+    overflow: hidden;
+     width: 100% }
 
   .navigation {
     float: left; }
@@ -169,10 +174,12 @@
 
 /* =Main Page *//*************************************************************/
   #about-img {
-    border-radius: 13%;
-    max-width: 125px;
-    margin: auto;
+    border-radius: 50%;   /*13%*/
+    max-width: 250px;     /*125%*/
+    margin-right: auto;
+    margin-left: 100px;
     margin-bottom: 3%;
+    
   }
 
   #describe-text {
