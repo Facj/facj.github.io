@@ -256,10 +256,13 @@
       width: 100%; }
 
     .logo {
-    font-size: 200%;
+    font-size: 250%;
     font-weight: 700;
     color: #16a085;
     display: block; }
+
+   menu {
+    font-size: 100%;}
 
 /*Main page */
    #about-img {
