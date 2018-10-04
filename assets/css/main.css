@@ -255,6 +255,26 @@
       text-align: center;
       width: 100%; }
 
+/*Main page */
+   #about-img {
+    border-radius: 13%;   /*13%*/
+    max-width: 125px;     /*125%*/
+    margin: auto;
+    margin-bottom: 3%;    
+  }
+
+  #describe-text {
+      display: block;
+      text-align: left;
+      max-width: 100%;
+      margin:auto;}
+
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
   }
 
 /* =Glitch effect, Source: http://codepen.io/bulby97/pen/fcvay *//*************************************************************/
