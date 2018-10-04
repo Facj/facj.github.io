@@ -13,7 +13,7 @@ sitemap:
 	
 	<p>I am currently finishing a PhD in Information and Communication Technologies in University of Vigo. During my PhD, I was a visiting researcher in SAMOVAR Lab, <a href="https://www.telecom-sudparis.eu/en/">Télécom SudParis</a>. <br> Before, I received the Telecommunications Engineer degree (BSc + MSc) from the University of Vigo in 2014. I was also a Erasmus student at the University of Oulu (Finland), where I completed my Master Thesis at the <a href="https://www.ee.oulu.fi/research/ouspg/">Oulu University Secure Programming Group</a>.
 
- <p>I work on information technologies for smart cities, including participatory sensing, sensors, data analysis, ubiquitous computing. </p>
+ <p>I work on information technologies for smart cities, including participatory sensing, sensors, data analysis, ubiquitous computing. My research interests include Ambient Intelligence, Context Awareness, Ubiquitous Computing and Networks </p>
 
  </p>
 </div>
