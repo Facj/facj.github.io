@@ -261,6 +261,9 @@
     color: #16a085;
     display: block; }
 
+   menu {
+    font-size: 80%;}
+
 /*Main page */
    #about-img {
     border-radius: 13%;   /*13%*/
