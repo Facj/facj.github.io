@@ -255,6 +255,12 @@
       text-align: center;
       width: 100%; }
 
+    .logo {
+    font-size: 200%;
+    font-weight: 700;
+    color: #16a085;
+    display: block; }
+
 /*Main page */
    #about-img {
     border-radius: 13%;   /*13%*/
