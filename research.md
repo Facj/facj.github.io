@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Research
+title: Projects
 ---
 
-<p> I work in his field</p>
-<p> I am also interested in....</p>
 <p> I have participated in the following research projects:</p>
 
  <ul style="list-style-type:disc">

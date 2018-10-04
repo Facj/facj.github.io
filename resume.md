@@ -2,10 +2,11 @@
 layout: page
 title: Résumé
 ---
-
-<span style="float: right; "><a href="{{ '/assets/cv-academic.pdf' | prepend: site.baseurl }}"><strong>> Download résumé as PDF</strong></a> </span>
+<span style="float: left; "><a href="{{ '/assets/cv-academic.pdf' | prepend: site.baseurl }}"><strong>> Download academic CV (English)</strong></a> </span>
 <br>
-<span style="float: right; "><a href="{{ '/assets/cv-academic.pdf' | prepend: site.baseurl }}"><strong>> Download academic CV</strong></a> </span>
+<span style="float: left; "><a href="{{ '/assets/cv-academic.pdf' | prepend: site.baseurl }}"><strong>> Download résumé (English)</strong></a> </span>
+<br>
+<span style="float: left; "><a href="{{ '/assets/cv-academic.pdf' | prepend: site.baseurl }}"><strong>> Download résumé (Spanish)</strong></a> </span>
 <br>
 
 
