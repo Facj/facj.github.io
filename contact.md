@@ -11,7 +11,7 @@ Phone: +34 986818704 <br>
 e-mail: fatima [at] det [dot] uvigo [dot] es 
 </p>
 
-<p>You can also contact me on my social networks (top right). </p>
+<p>You can also contact me on my social networks (below). </p>
 </div>
 
 

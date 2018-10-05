@@ -49,7 +49,7 @@
     margin: 60px auto; }
 	
   .main {
-   width: 80%;
+   width: 60%;
    margin: auto; }
 
 /* =Header *//*************************************************************/
@@ -84,7 +84,7 @@
     font-weight: 400; }
 
   .social-links {
-    float: center;
+    float: right;
     font-size: 150%;
     color: #828282;
     list-style-type: none; }
@@ -187,7 +187,8 @@
       display: block;
       text-align: left;
       max-width: 100%;
-     /*margin-right: 100px;
+      margin-left: 100px;
+      /*margin-right: 100px;
       float: right*/ }
 
   .clearfix::after {
@@ -255,20 +256,38 @@
       width: 100%; }
 
     .logo {
-    font-size: 200%;
+    font-size: 250%;
     font-weight: 700;
     color: #16a085;
     display: block; }
 
    menu {
-    color: #828282;
-    font-size: 50%;
-    margin: 0px;
-    margin-top: 6px;
-    padding: 0px;
-    list-style-type: none; }
+<<<<<<< HEAD
+    font-size: 80%;}
+=======
+    font-size: 100%;}
+>>>>>>> d711f3e47af68ac34aeb0b6368b47cb5216d9b97
 
-   
+/*Main page */
+   #about-img {
+    border-radius: 13%;   /*13%*/
+    max-width: 125px;     /*125%*/
+    margin: auto;
+    margin-bottom: 3%;    
+  }
+
+  #describe-text {
+      display: block;
+      text-align: left;
+      max-width: 100%;
+      margin:auto;}
+
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
   }
 
 /* =Glitch effect, Source: http://codepen.io/bulby97/pen/fcvay *//*************************************************************/
