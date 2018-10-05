@@ -176,7 +176,7 @@
   #about-img {
     border-radius: 50%;   /*13%*/
     max-width: 250px;     /*125%*/
-    margin-right: 50px;
+    margin-right: 5%;
     /*margin-left: 100px;*/
     margin-bottom: 5%;
     float: left;
@@ -228,7 +228,7 @@
 
     .social-links {
       font-size: 200%;
-      margin: 10px auto; }
+      margin: auto; }
 
     .page-title {
       margin-top: 10px;
