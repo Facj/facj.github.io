@@ -276,22 +276,19 @@
     /*margin-right: 50px;
     margin-left: 100px;*/
     margin-bottom: 3%;
-    float: left;
+    /*float: left;*/
     
   }
 
   #describe-text {
       display: block;
-      text-align: left;
+      text-align: center;
       max-width: 100%;
       margin: auto;
       /*margin-right: 100px;
       float: right*/ }
 
   .clearfix::after {
-    content: "";
-    clear: both;
-    display: table;
 }
 
    
