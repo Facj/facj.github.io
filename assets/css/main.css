@@ -262,8 +262,11 @@
     display: block; }
 
    menu {
-    font-size: 80%;}
+    font-size: 50%;} /*80%?*/
 
+   
+
+   
   }
 
 /* =Glitch effect, Source: http://codepen.io/bulby97/pen/fcvay *//*************************************************************/
