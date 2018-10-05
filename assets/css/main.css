@@ -262,7 +262,12 @@
     display: block; }
 
    menu {
-    font-size: 50%;} /*80%?*/
+    color: #828282;
+    font-size: 50%;
+    margin: 0px;
+    margin-top: 6px;
+    padding: 0px;
+    list-style-type: none; }
 
    
 
