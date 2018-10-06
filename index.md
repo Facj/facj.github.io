@@ -16,6 +16,6 @@ sitemap:
 
  <p>I work in the fields of smart cities, Internet of Things and data analysis. My research interest include Ambient Intelligence, Context Awareness, Ubiquitous Computing and Networks. </p>
 
- </p>
+ 
 </div>
 </div>
