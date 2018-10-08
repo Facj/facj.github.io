@@ -222,8 +222,8 @@
       width: 100%; }
 
     .social-links {
-      font-size: 200%;
-      margin: auto; }
+	font-size: 200%;}
+      /*margin: auto; }*/
 
     .page-title {
       margin-top: 10px;
