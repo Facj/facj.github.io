@@ -185,10 +185,15 @@
 
   #describe-text {
       display: block;
-      text-align: center;
-      width: 100%; }
+      text-align: left;
+      max-width: 100%;
+     /*margin-right: 100px;
+      float: right*/ }
 
   .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
 }
 
 /* =Contact Page *//*************************************************************/
@@ -222,8 +227,8 @@
       width: 100%; }
 
     .social-links {
-	font-size: 200%;}
-      /*margin: auto; }*/
+      font-size: 200%;
+      margin: auto; }
 
     .page-title {
       margin-top: 10px;
