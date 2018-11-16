@@ -2,11 +2,15 @@
 layout: page
 title: Publications
 ---
+**Preprint** 
+ <ul style="list-style-type:disc">
+  <li> <b>F. Castro-Jul</b>, R. P. Díaz-Redondo, A. Fernández-Vilas, S. Chabridon, and D. Conan, <a href="https://www.preprints.org/manuscript/201811.0407"><i>“Fog Architectures and Sensor Location Certification in Distributed Event-Based Systems”</i></a>, Preprints 2018, 2018110407 (doi: 10.20944/preprints201811.0407).  </li>
+</ul>
 
 
 **2018** 
  <ul style="list-style-type:disc">
-  <li> <b>F. Castro-Jul</b>, R. P. Díaz-Redondo, and A. Fernández-Vilas, <a href="https://www.sciencedirect.com/science/article/pii/S1389128617304267"><i>“Collaboratively assessing urban alerts in ad hoc participatory sensing”</i></a>, Computer Networks, vol. 131, pp. 129–143, 2018 </li>
+  <li> <b>F. Castro-Jul</b>, R. P. Díaz-Redondo, and A. Fernández-Vilas, <a href="https://www.sciencedirect.com/science/article/pii/S1389128617304267"><i>“Collaboratively assessing urban alerts in ad hoc participatory sensing”</i></a>, Computer Networks, vol. 131, pp. 129–143, 2018. </li>
 </ul> 
 **2017**
 <ul style="list-style-type:disc">
